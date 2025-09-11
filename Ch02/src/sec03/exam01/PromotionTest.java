@@ -14,8 +14,7 @@ public class PromotionTest {
 		System.out.println((char)intVal1);
 		
 		byte byteVal1 = 65;
-		int intVal2 = 65;
 		char charVal2 = (char)byteVal1;
-		char charVal3 = (char)intVal2;
+		//byteVal1 = charVal2;
 	}
 }
